@@ -1,1 +1,1 @@
-# Wholesale-Shop-Management-System-Application
+# Wholesale Shop Management System Application Using Python
